@@ -1,0 +1,16 @@
+{
+  "name": "kish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build-css": "npx sass --watch src/styles/styles.scss public/styles.css"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.64.2"
+  }
+}
